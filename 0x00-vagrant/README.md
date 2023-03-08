@@ -1,1 +1,1 @@
-MINGW64_NT-10.0-19045
+This file is mandatory in projects2
